@@ -1,2 +1,2 @@
-# Laboratorio_02
-COM300_Laboratorio N°2
+# COM300_Laboratorio_02
+Trabajo de laboratorio de la materia de COM300 (Inteligencia Artificial 1).
